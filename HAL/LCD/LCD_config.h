@@ -1,6 +1,6 @@
 
 /*
-  Author:      Ehab Roshdy                                                                      
+  Author:      Heba Adel                                                                      
   Version:     0.1                                                                       
   Date:        21/8/2023                                                                             
   Description: LCD driver configuration file                                 

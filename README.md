@@ -84,4 +84,4 @@ This project draws inspiration from educational resources provided by Egypt Make
 
 ## Contact
 
- For inquiries, please contact [e.roshdy97@gmail.com](mailto:e.roshdy97@gmail.com). 📧
+ For inquiries, please contact [hebadel244@gmail.com](mailto:hebadel244@gmail.com). 📧

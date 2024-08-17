@@ -1,5 +1,5 @@
 /*
- * Author:      Ehab Roshdy
+ * Author:      Heba Adel
  * Version:     0.1
  * Date:        23/8/2023
  * Description: Main program for a stopwatch application using GPIO switches, LCD display, and SysTick timer
